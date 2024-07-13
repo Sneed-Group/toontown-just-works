@@ -873,7 +873,7 @@ QuestDialogDict = {
  3256: {QUEST: '_toNpcName_ is investigating Sellbot Headquarters.\x07Go see if you can help._where_'},
  3257: {QUEST: '_toNpcName_ is investigating Sellbot Headquarters.\x07Go see if you can help._where_'},
  3258: {QUEST: 'There is much confusion about what the Cogs are up to in their new headquarters.\x07I need you to bring back some information directly from them.\x07If we can get four internal memos from Sellbots inside their HQ, that will clear things up.\x07Bring back your first memo to me so we can learn more.'},
- 3259: {QUEST: 'Great! This let\'s see what the memo says....\x07"Attn Sellbots:"\x07"I\'ll be in my office at the top of Sellbot Towers promoting Cogs to higher levels."\x07"When you earn enough merits enter the elevator in the lobby to see me."\x07"Break time\'s over - back to work!"\x07"Signed, Sellbot V.P."\x07Aha.... Flippy will want to see this. I\'ll send it to him right now.\x07Please go get your second memo and bring it back.'},
+ 3259: {QUEST: 'Great! This let\'s see what the memo says....\x07"Attn Sellbots:"\x07"I\'ll be in my office at the top of Sellbot Towers promoting Cogs to higher levels."\x07"When you earn enough merits enter the elevator in the lobby to see me."\x07"Break time\'s over - back to work!"\x07"Signed, Sellbot V.P."\x07Aha.... Mr. Frump will want to see this. I\'ll send it to him right now.\x07Please go get your second memo and bring it back.'},
  3260: {QUEST: 'Oh good, you\'re back. Let\'s see what you found....\x07"Attn Sellbots:"\x07"Sellbot Towers has installed a new security system to keep all Toons out."\x07"Toons caught in Sellbot Towers will be detained for questioning."\x07"Please meet in the lobby for appetizers to discuss."\x07"Signed, Mingler"\x07Very interesting... I\'ll pass on this information immediately.\x07Please bring a third memo back.'},
  3261: {QUEST: 'Excellent job _avName_! What does the memo say?\x07"Attn Sellbots:"\x07"Toons have somehow found a way to infiltrate Sellbot Towers."\x07"I\'ll call you tonight during dinner to give you the details."\x07"Signed, Telemarketer"\x07Hmmm... I wonder how Toons are breaking in....\x07Please bring back one more memo and I think we\'ll have enough info for now.',
         COMPLETE: 'I knew you could do it! Ok, the memo says....\x07"Attn Sellbots:"\x07"I was having lunch with Mr. Hollywood yesterday."\x07"He reports that the V.P. is very busy these days."\x07"He will only be taking appointments from Cogs that deserve a promotion."\x07"Forgot to mention, Gladhander is golfing with me on Sunday."\x07"Signed, Name Dropper"\x07Well... _avName_, this has been very helpful.\x07Here is your reward.'},
@@ -1855,8 +1855,8 @@ QuestDialogDict = {
          COMPLETE: "Yes, I think I'm onto something.\x07Oh, yes.\x07This is for you..."},
  12032: {GREETING: '',
          LEAVING: '',
-         QUEST: 'You need to go tell Flippy about this...',
-         INCOMPLETE_PROGRESS: 'Flippy can be found in Toon Hall',
+         QUEST: 'You need to go tell Donald Frump about this...',
+         INCOMPLETE_PROGRESS: 'Donald Frump can be found in Toon Hall',
          COMPLETE: 'A new type of Cog!\x07Good work!\x07Here is your final disguise part.'}}
 ChatGarblerDog = ['woof', 'arf', 'rruff']
 ChatGarblerCat = ['meow', 'mew']
@@ -6934,7 +6934,7 @@ PetTrait2descriptions = {'hungerThreshold': ('Always Hungry',
 FireworksInstructions = lToonHQ + ': Hit the "Page Up" key to see the show!'
 FireworksJuly4Beginning = lToonHQ + ': Welcome to summer fireworks! Enjoy the show!'
 FireworksJuly4Ending = lToonHQ + ': Hope you enjoyed the show! Have a great summer!'
-FireworksNewYearsEveBeginning = lToonHQ + ': Happy New Year! Enjoy the fireworks show, sponsored by Flippy!'
+FireworksNewYearsEveBeginning = lToonHQ + ': Happy New Year! Enjoy the fireworks show, sponsored by Donald Frump!'
 FireworksNewYearsEveEnding = lToonHQ + ': Hope you enjoyed the show! Have a Toontastic New Year!'
 FireworksComboBeginning = lToonHQ + ': Enjoy lots of Laffs with Toon fireworks!'
 FireworksComboEnding = lToonHQ + ': Thank you, Toons! Hope you enjoyed the show!'
