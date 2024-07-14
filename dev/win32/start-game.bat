@@ -8,6 +8,7 @@ echo #1 - Localhost
 echo #2 - Server
 echo #3 - Custom
 echo #4 - MiniGames
+echo #5 - Dev server
 echo.
 
 
@@ -19,11 +20,11 @@ set /P INPUT=Selection:
 if %INPUT%==1 (
     set TTS_GAMESERVER=127.0.0.1
 ) else if %INPUT%==2 (
-    set TTS_GAMESERVER=server.sparksammy.com
+    set TTS_GAMESERVER=lordshomelink-v2.duckdns.org
 ) else if %INPUT%==4 (
     GOTO 4
 ) else if %INPUT%==5 (
-    SET TTS_GAMESERVER=lw2.ez-webz.com:7198
+    SET TTS_GAMESERVER=192.168.50.85
 ) else if %INPUT%==3 (
     echo.
     set /P TTS_GAMESERVER=Gameserver: 
